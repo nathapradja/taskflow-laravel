@@ -22,19 +22,6 @@ Modern Project Management System built with Laravel 13.
 - Tailwind CSS
 - Blade
 
-## Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Projects
-
-![Projects](screenshots/projects.png)
-
-### Tasks
-
-![Tasks](screenshots/tasks.png)
 
 ## Installation
 
